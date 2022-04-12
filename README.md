@@ -19,4 +19,4 @@ You can reach the maintainers of this project at:
 
 ### Code of conduct
 
-Participation in the Open Data Hub community is governed by the [Open Data Hub Code of Conduct](CODE_OF_CONDUCT.md).
+Participation in the Open Data Hub community is governed by the [Open Data Hub Code of Conduct](./CODE_OF_CONDUCT.md).
