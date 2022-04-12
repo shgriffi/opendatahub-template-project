@@ -15,7 +15,7 @@ Learn how to engage with the Open Data Hub community on the [community page](htt
 You can reach the maintainers of this project at:
 
 - [Slack](https://odh-io.slack.com/)
-- [Mailing List](maintainers@lists.opendatahub.io)
+- [Mailing List](mailto:maintainers@lists.opendatahub.io)
 
 ### Code of conduct
 
